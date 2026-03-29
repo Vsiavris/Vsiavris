@@ -1,6 +1,6 @@
 ### 👋 Hi there!
 
-I’m Vadim, currently a working as a Development Consultant at Danske Bank with a passion for process optimization, data analytics, and AI.
+I’m Vadim, currently a working as a Automation and GenAI consultant at Danske Bank with a passion for process optimization, data analytics, and AI.
 
 ![Hello GIF](https://cdnl.iconscout.com/lottie/premium/thumb/happy-robot-say-hai-animation-download-in-lottie-json-gif-static-svg-file-formats--hello-saying-hi-robotics-creative-pack-network-communication-animations-4729052.gif)
 
